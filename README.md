@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @331282
 - 👀 I’m interested in OOP.
-- 🌱 I’m currently learning about FRC cameras.
+- 🌱 I’m currently learning about Frc AdvantageKit and auto
 - 📫 How to reach me 331282@student.linnmar.org
 
 <!---
